@@ -1,0 +1,17 @@
+{
+  "name": "react-perf-exercise",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.4",
+    "lorem-ipsum": "^2.0.3",
+    "next": "9.0.5",
+    "react": "16.9.0",
+    "react-dom": "16.9.0"
+  }
+}
