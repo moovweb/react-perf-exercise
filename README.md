@@ -1,5 +1,10 @@
 # React Performance Exercise
 
+This overly simple clothing store app based on next.js consists of two pages:
+
+- `/` - A list of products
+- `/product/[productId]` - View a single product
+
 ## Getting Up and Running
 
 First, download (don't clone) the repo and run:
@@ -16,11 +21,6 @@ yarn dev
 ```
 
 ## Exercise Overview
-
-This overly simple clothing store app consists of two pages:
-
-- `/` - A list of products
-- `/product/[productId]` - View a single product
 
 There are numerous performance problems in this app that could be fixed:
 
